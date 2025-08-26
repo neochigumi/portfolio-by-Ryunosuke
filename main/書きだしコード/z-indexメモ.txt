@@ -1,0 +1,8 @@
+.intro-movie: 999
+.right svg .left svg: 2
+.first: 3
+.first-view:1
+.header: 500
+.top-title:2
+.burger: 2
+.works: 400
